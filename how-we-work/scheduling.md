@@ -1,0 +1,15 @@
+# 🗓️ Scheduling
+
+We use Google Calendars for our work, with each of us having a personal calendar and the team sharing a few additional calendars:
+
+* [P2PU Events](https://calendar.google.com/calendar/ical/p2pu.org_47c0loete7js50kbc38skgbhl0%40group.calendar.google.com/public/basic.ics): Regular team meetings
+* [P2PU Community](https://calendar.google.com/calendar/ical/p2pu.org_m75tvnp7i012sq1hmcr7sl34fs%40group.calendar.google.com/public/basic.ics): Public-facing events calendar
+* [P2PU Editorial](https://calendar.google.com/calendar/b/1?cid=cDJwdS5vcmdfZGk0dDc1cWd1dWxkdGVsMDZjZWlycTlwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ): Schedule for planning events
+* [Staff Travel / Vacation](https://calendar.google.com/calendar/embed?src=p2pu.org_7u0rfb1q3n6thnu8ulk78sp8ns%40group.calendar.google.com&ctz=America%2FNew_York): Time away from the office
+
+A few practices we encourage:
+
+* Use the RSVP feature to indicate whether you’re able to join or not. Generally, if something comes up and you can’t join a previously scheduled meeting, you should propose an alternate time.
+* Share your personal work calendar with the team and keep it up to date, so that colleagues can schedule meetings with you. There is no need to share the details of everything in your calendar with the whole team, but at least blocked time should be expected.
+* For the time being, we need to be logging leave/vacation both on the Google Calendar and the [Travel & Time Off Sheet](https://docs.google.com/spreadsheets/d/1h31oT-FJ9Rv76HU4u1I303oPm1xp9erDcwy15BWQjSg/edit#gid=0)
+
