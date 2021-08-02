@@ -9,7 +9,7 @@
   * [🤝 Decision Making](governance-1/editing-the-guidelines.md)
   * [💬 Standing Meetings](governance-1/standing-meetings.md)
 * [Org Policies](policies-1/README.md)
-  * [🏖️ Leave Policy](policies-1/leave-policy.md)
+  * [🏖️ Time Off Policy](policies-1/leave-policy.md)
   * [✈️ Travel Policy](policies-1/travel-policy.md)
   * [🕴️Hiring Policy](policies-1/hiring-policy.md)
 * [How We Work](how-we-work/README.md)
