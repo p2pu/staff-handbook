@@ -4,5 +4,3 @@ In or about September of each year, the Treasurer and team will put forward a dr
 
 Any larger variances or not previously approved expenses must be approved in advance by a simple majority of the Executive Committee, which shall be recorded in email and minuted at the next board meeting. An exception is made for expenses below $250 that are deemed important by the team but not previously approved by Board. These can be approved by the team and highlighted in the next Board meeting.
 
-
-

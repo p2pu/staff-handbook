@@ -6,7 +6,6 @@ The goal of the onboarding process is to both welcome the new hire into the orga
 
 **Leaving P2PU**
 
-Upon departure, team members will generally lose their P2PU email address, but are invited to stay part of the virtual community. Before departure, all documents and accounts should be transferred to the admin account. 
+Upon departure, team members will generally lose their P2PU email address, but are invited to stay part of the virtual community. Before departure, all documents and accounts should be transferred to the admin account.&#x20;
 
 Contractors will be discharged when their assignment is completed. If a contractor leaves before their agreed upon task has been completed, this may result in P2PU not paying the full amount to the contractor.
-

@@ -6,4 +6,3 @@ Outside of an annual review that happens alongside setting the budget, there are
 
 * If somebody moves, it is contingent on them to update their cost of living. Change to their salary is effective the first full month employee is in a new place.
 * When an employee hits a biennial anniversary and is eligible for a service round increase, it’s their responsibility to make it an agenda item at the following Board meeting for discussion and approval by the Board.
-

@@ -23,14 +23,14 @@ The term of each board member is two years, and no board member may serve more t
 
 The officers of P2PU are an Executive Director, a Treasurer, a Company Secretary, and any additional officers approved by the Board. The duties of each officer are outlined in P2PU’s bylaws. Any number of offices may be held by the same person, except that neither the secretary nor the treasurer may serve concurrently as either the Executive Director or the Chairperson of the Board. If there is no Executive Director, the chairperson of the Board shall retain the powers and duties of the Executive Director.
 
-* Philipp Schmidt \(Chairperson\)
-* Grif Peterson \(Executive Director\)
-* Carl Ruppin \(Board Secretary\)
+* Philipp Schmidt (Chairperson)
+* Grif Peterson (Executive Director)
+* Carl Ruppin (Board Secretary)
 * _Treasurer Vacant_
 
 **Executive Committee**
 
-The Executive Committee is a subcommittee of the Board charged with interfacing with the team on matters that do not require full board involvement. Many issues, including hiring, setting salaries, and resolving conflict can be decided by the Executive Committee. 
+The Executive Committee is a subcommittee of the Board charged with interfacing with the team on matters that do not require full board involvement. Many issues, including hiring, setting salaries, and resolving conflict can be decided by the Executive Committee.&#x20;
 
 * Philipp Schmidt
 * Ahrash Bissell
@@ -39,12 +39,10 @@ The Executive Committee is a subcommittee of the Board charged with interfacing 
 
 **Team**
 
-A team member is a ****person who has been onboarded into P2PU’s governance model and is jointly responsible for conducting business for P2PU on a daily basis. The mode \(e.g. contractor, employee, volunteer\) of team members’ involvement with P2PU is not a reflection on her or his importance to the organization. We strive to treat all team members equally, to the extent allowed by legal and regulatory constraints.
+A team member is a** **person who has been onboarded into P2PU’s governance model and is jointly responsible for conducting business for P2PU on a daily basis. The mode (e.g. contractor, employee, volunteer) of team members’ involvement with P2PU is not a reflection on her or his importance to the organization. We strive to treat all team members equally, to the extent allowed by legal and regulatory constraints.
 
 * Becky Margraf
 * Dirk Uys
 * Grif Peterson
 * Qumisha Goss
-
-
 

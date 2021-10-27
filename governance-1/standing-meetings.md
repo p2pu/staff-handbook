@@ -2,7 +2,7 @@
 
 ### Board Meetings
 
-Twice annual convening of the Board. First meeting tends to focus more on implementing strategy, second meeting on approving the next year’s budget. 
+Twice annual convening of the Board. First meeting tends to focus more on implementing strategy, second meeting on approving the next year’s budget.&#x20;
 
 ### Board Strategy Meetings
 
@@ -18,5 +18,4 @@ Early each year, the team will convene to chart and reflect on our growth as ind
 
 ### Peer-Based Performance Review
 
-The annual performance review process is peer-led and designed to be constructive in nature. It is a space for the team to come together to reflect on our respective work in the context of organizational goals and identify places where our expectations of one another \(and ourselves\) have not been met. After sharing written self-assessments, the team convenes to reflect on each other’s feedback, and raise any issues that haven’t yet been surfaced. From here, the team identifies any next steps required \(e.g. professional development opportunities, future check-ins to address unresolved issues, performance improvement plans\). 
-
+The annual performance review process is peer-led and designed to be constructive in nature. It is a space for the team to come together to reflect on our respective work in the context of organizational goals and identify places where our expectations of one another (and ourselves) have not been met. After sharing written self-assessments, the team convenes to reflect on each other’s feedback, and raise any issues that haven’t yet been surfaced. From here, the team identifies any next steps required (e.g. professional development opportunities, future check-ins to address unresolved issues, performance improvement plans).&#x20;
