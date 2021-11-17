@@ -5,7 +5,7 @@ There are different pathways for the general public and P2PU account members to 
 ### &#x20;**Direct contact**
 
 * Notification process
-  * Anyone can visit P2PU [Contact Page](https://www.p2pu.org/en/contact/) and submit a typeform survey to contact P2PU. Once submitted, the responses are shared in email from [notifications@typeform.com](mailto:notifications@typeform.com) to [support@p2pu.org](mailto:support@p2pu.org) with the subject heading ‘\[Contact Page] New support request’
+  * Anyone can visit P2PU [Contact Page](https://www.p2pu.org/en/help/) and submit a typeform survey to contact P2PU. Once submitted, the responses are shared in email from [notifications@typeform.com](mailto:notifications@typeform.com) to [support@p2pu.org](mailto:support@p2pu.org) with the subject heading ‘\[Contact Page] New support request’
   * All email directed to “ [thepeople@p2pu.org](mailto:thepeople@p2pu.org)” goes to all P2PU team members
 * Support practices
   * Reply to all contact requests where appropriate and cc [support@p2pu.org](mailto:support@p2pu.org)
@@ -18,7 +18,7 @@ There are different pathways for the general public and P2PU account members to 
   * Any user can change how they are notified about changes to a specific topic thread (ex: watching, tracking, normal or muted)
 * Moderation
   * Review all Discourse [flagged messages](https://community.p2pu.org/review)
-  * Inquire or delete discourse messages that seem inappropriate
+  * Inquire or delete Discourse messages that seem inappropriate
 * Support practices
   * Engage with discussion (like, reply, DM)&#x20;
   * Update Discourse-bot welcome messages, award allocation, and email settings where applicable
@@ -88,4 +88,4 @@ There are different pathways for the general public and P2PU account members to 
   * Respond to weekly team feedback where appropriate
   * Encourage facilitators and teams with relevant feedback to explore their issue for as blog post, community call topic, resource guide, or discourse post
   * Highlight weekly team feedback to P2PU team as needed in Comms Call
-  * Review and edit P2PU course list regularly to ensure each course meets the necessary criteria and that the information listed is accurate and reliable
+  * Review and edit P2PU course list regularly to ensure each course meets the necessary criteria and that the information listed is accurate and reliable.
