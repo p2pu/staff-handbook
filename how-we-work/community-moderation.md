@@ -5,8 +5,8 @@ There are different pathways for the general public and P2PU account members to 
 ### &#x20;**Direct contact**
 
 * Notification process
-  * Anyone can visit P2PU [Contact Page](https://www.p2pu.org/en/help/) and submit a typeform survey to contact P2PU. Once submitted, the responses are shared in email from [notifications@typeform.com](mailto:notifications@typeform.com) to [support@p2pu.org](mailto:support@p2pu.org) with the subject heading ‘\[Contact Page] New support request’
-  * All email directed to “ [thepeople@p2pu.org](mailto:thepeople@p2pu.org)” goes to all P2PU team members
+  * Anyone can visit the P2PU [Help ](https://www.p2pu.org/en/help/)page and fill out the Contact Form, which goes to thepeople@p2pu.org and cc's [support@p2pu.org](mailto:support@p2pu.org) with the subject heading 'Support Request from \[Contact Name]'
+  * All email directed to “[thepeople@p2pu.org](mailto:thepeople@p2pu.org)” goes to all P2PU team members
 * Support practices
   * Reply to all contact requests where appropriate and cc [support@p2pu.org](mailto:support@p2pu.org)
   * Respond to all technical support queries. These may include assistance in creating a P2PU account, creating a learning circle, adding a course, adding a team member, using the Dashboard, using the Community Forum.
@@ -45,7 +45,7 @@ There are different pathways for the general public and P2PU account members to 
   * Respond to learning circle creation messages when appropriate
   * Connect facilitators who have run the same learning circle to connect each other
 
-### &#x20;**Learning circle survey response**
+### **Learning circle survey response**
 
 * Notification process
   * When a learning circle ends, registered learners or facilitators receive a survey from P2PU to complete. When surveys are submitted, an email from [notifications@typeform.com](mailto:notifications@typeform.com) with the survey response is shared to [team@p2pu.org](mailto:team@p2pu.org)
@@ -56,15 +56,7 @@ There are different pathways for the general public and P2PU account members to 
   * Follow up with facilitators with relevant feedback, stories, or outcomes that may be used a blog post, community call topic, resource guide, discourse post, or in any way that would improve the learning circle model
   * Follow up with learners or facilitators that reply to learning circle survey email instead of clicking to the evaluation report
 
-### &#x20;**Organizer Guide download**
-
-* Notification process
-  * Anyone who visits the [Organizer](https://www.p2pu.org/en/organize/) page is able to download the Organizer Guide. If the user does not have a P2PU account or does not log-in when they try to download the Guide, they will be asked to submit their email account.&#x20;
-  * Once their email is submitted, an email with the subject heading ‘Your learning circle organizer guide’ is sent from [learningcircles@p2pu.org](mailto:learningcircles@p2pu.org) to the user's email address and with [thepeople@p2pu.org](mailto:thepeople@p2pu.org) cc’d
-* Support practices
-  * [Follow-up by email](https://docs.google.com/document/d/1tnhIk\_nP5dGl8EAtO0\_LslfR6IkYS8Oz4YtQbEiK\_NQ/edit) to all those who download the Organizer Guide
-
-### &#x20;**Weekly learning circles and course update**
+### **Weekly learning circles and course update**
 
 * Notification process
   * A weekly email is sent every Monday morning (ET) from [learningcircles@p2pu.org](mailto:learningcircles@p2pu.org) to all P2PU team members with the subject heading ‘Weekly learning circles update’.&#x20;
@@ -78,12 +70,15 @@ There are different pathways for the general public and P2PU account members to 
     * The courses added to the P2PU database
 * Moderation
   * Courses
-    * Inquire, unlist, or delete online courses that fit one or more categories:
+    * Online courses that fit one or more categories should be **unlisted**, **archived**, or **deleted**:
       * Is a duplicate of another existing course
       * Paid-for content
       * Looks suspicious or spam-like
       * Inappropriate content
       * Course URL does not work
+    * **Unlisting** a course hides it from public view in the library, but the course still be seen and used by the person who uploaded it and by their team
+    * **Archiving **hides the course from everyone but P2PU and retains the metadata
+    * **Deleting** the course purges it permanently from our library
 * Support practices
   * Respond to weekly team feedback where appropriate
   * Encourage facilitators and teams with relevant feedback to explore their issue for as blog post, community call topic, resource guide, or discourse post
