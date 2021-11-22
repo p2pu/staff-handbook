@@ -5,7 +5,7 @@
 * **Facilitator Calls:** This is for people who are actively facilitating learning circles and want to reflect on their practices. We’ll also interrogate issues that we’re facing in our learning circles and also try out new facilitation strategies and activities.
   * When: First Wednesday of the month at 12pm ET
   * Who: People with active learning circles.
-* **P2PU Community Call -** This is for people who are interested in a specific area and topic but may not be actively running learning circles.** **
+* **P2PU Community Calls: **This is for people who are interested in a specific area and topic but may not be actively running learning circles.** **
   * When: Quarterly&#x20;
   * Who: Entire community (newsletter + accounts)
 * **Working Groups:** Working groups that meet weekly for a set period of time should either meet an immediate need (e.g. pandemic response), be done for as part of a funded project (e.g. KC APP), or serve a wider goal for P2PU (e.g. planning a gathering)
