@@ -9,7 +9,7 @@ Aside from team email accounts, there are a few additional accounts in the @p2pu
 * **support@p2pu.org** is used to solicit feedback on tools and software.
   * **support-cc@p2pu.org** (Dirk, Grif, Q, Becky) receives all mail sent to support@p2pu.org
 * **discourse@p2pu.org** and **community-reply@p2pu.org** are used to handle messages from our respective instances of Discourse.
-* **events@p2pu.org** is used to handle messages related to user questions regarding our calendar events
+* **events@p2pu.org** is used to handle users' questions regarding our calendar events
 
 ### **Groups**
 
