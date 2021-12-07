@@ -6,7 +6,7 @@ We use Google Calendars for our work, with each of us having a personal calendar
 * [P2PU Editorial](https://calendar.google.com/calendar/b/1?cid=cDJwdS5vcmdfZGk0dDc1cWd1dWxkdGVsMDZjZWlycTlwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ): Schedule for planning events
 * [Staff Travel / Vacation](https://calendar.google.com/calendar/embed?src=p2pu.org\_7u0rfb1q3n6thnu8ulk78sp8ns%40group.calendar.google.com\&ctz=America%2FNew\_York): Time away from the office
 * [P2PU Community Calendar](https://www.addevent.com/calendar/Bn389115): Our public-facing events calendar (AddEvent)&#x20;
-* [P2PU Teams Membership Calendar](https://www.addevent.com/calendar/DN392766): Our calendar for membership-only events (AddEvent)
+* [P2PU Teams Membership Calendar](https://www.addevent.com/calendars/DN392766/all-events/upcoming): Our calendar for membership-only events (AddEvent)
 
 **A few internal scheduling practices we encourage:**
 
@@ -19,6 +19,4 @@ We use Google Calendars for our work, with each of us having a personal calendar
 * New events: Activate RSVPs and set automated reminders for 1 hour
 * [P2PU Community Calendar](https://www.addevent.com/calendar/Bn389115)
   * For public-facing events, use: [meet.google.com/vns-whqb-hva](http://meet.google.com/vns-whqb-hva)
-* [P2PU Teams Membership Calendar](https://www.addevent.com/calendar/DN392766)
-  * For membership-only events, use: [meet.google.com/nrp-ivnk-evq](https://meet.google.com/nrp-ivnk-evq)
 
