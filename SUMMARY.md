@@ -17,8 +17,8 @@
   * [📨 Email Accounts & Groups](how-we-work/email-accounts-and-groups.md)
   * [🎟 Public Events](how-we-work/public-events.md)
   * [💾 Development Cycle](how-we-work/development-cycle.md)
-  * [🗓️ Scheduling](how-we-work/scheduling.md)
+  * [🗓️  Scheduling](how-we-work/scheduling.md)
   * [📣 Speaking for P2PU](how-we-work/speaking-for-p2pu.md)
   * [🏡 Community Moderation](how-we-work/community-moderation.md)
+  * [✏ Managing content](how-we-work/managing-content.md)
   * [👋 Onboarding & Offboarding](how-we-work/onboarding.md)
-
