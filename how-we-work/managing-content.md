@@ -18,4 +18,4 @@ Iow,&#x20;
 
 * pick a topic, eg. 'language-learning'.&#x20;
 * Add it in the "Search topics" field for the topic using the netlify interface ([https://www-staging.p2pu.org/en/admin/#/collections/topics/entries/language-learning](https://www-staging.p2pu.org/en/admin/#/collections/topics/entries/language-learning)).&#x20;
-* Then use the django admin interface ([https://staging-learningcircles.p2pu.org/en/admin/studygroups/course/](https://staging-learningcircles.p2pu.org/en/admin/studygroups/course/)) to find the courses you wish to add, and make sure the topics are set in the "Topics" field as part of a comma separated list
+* Then use the django admin interface ([https://learningcircles.p2pu.org/en/admin/studygroups/course/](https://learningcircles.p2pu.org/en/admin/studygroups/course/)) to find the courses you wish to add, and make sure the topics are set in the "Topics" field as part of a comma separated list
