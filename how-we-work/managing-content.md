@@ -8,14 +8,14 @@ Images can either be uploaded using the image widget, or set to an image URL hos
 
 ## Topic guides
 
-Add topic guides using the [NetlifyCMS interface](https://www-staging.p2pu.org/en/admin/#/collections/topics). Click on add topic and fill in all fields exept the optional excerpt.
+Add Topic Guides using the [NetlifyCMS interface](https://www-staging.p2pu.org/en/admin/#/collections/topics). Click on "Add Topic" and fill in all fields except the "Excerpt (Optional)."
 
-To make sure the image chosen works in the different display contexts, use the template on Figma.
+To make sure the thumbnail image works in different display contexts, use the [template in Figma](https://www.figma.com/file/jo8JFHEdgVeu3SobC6t1km/P2PU-Design?node-id=58%3A372).
 
 To associate courses with the topic guide, a topic needs to be set for each course corresponding to an item in "search topics". For example, for "Job readiness" the topic is "job skills" and searching using that topic on the learning resources page will show you all the courses associated with the topic: [https://www.p2pu.org/en/learning-resources/?topics=job%20skills](https://www.p2pu.org/en/learning-resources/?topics=job%20skills)
 
-Iow,&#x20;
+Lo:
 
-* pick a topic, eg. 'language-learning'.&#x20;
-* Add it in the "Search topics" field for the topic using the netlify interface ([https://www-staging.p2pu.org/en/admin/#/collections/topics/entries/language-learning](https://www-staging.p2pu.org/en/admin/#/collections/topics/entries/language-learning)).&#x20;
-* Then use the django admin interface ([https://learningcircles.p2pu.org/en/admin/studygroups/course/](https://learningcircles.p2pu.org/en/admin/studygroups/course/)) to find the courses you wish to add, and make sure the topics are set in the "Topics" field as part of a comma separated list
+* Pick a topic tag, eg. 'language-learning'.&#x20;
+* Use the Netlify interface to add the topic tag in the "Search topics" field ([https://www-staging.p2pu.org/en/admin/#/collections/topics/entries/language-learning](https://www-staging.p2pu.org/en/admin/#/collections/topics/entries/language-learning)).&#x20;
+* Use the django admin interface ([https://learningcircles.p2pu.org/en/admin/studygroups/course/](https://learningcircles.p2pu.org/en/admin/studygroups/course/)) to find the courses you wish to add to the Topic Guide, and make sure the topics are set in the "Topics" field as part of a comma-separated list
