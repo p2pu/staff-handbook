@@ -15,6 +15,7 @@
 
 **Newsletter**
 
+* Newsletter Schedule: [Google Doc](https://docs.google.com/document/d/1O\_KJ3MYGdZAleTSZ17jWbwjqJ8UY-6wNIn3Di0w0Uqc/edit)
 * One week before newsletter goes out
   * Lydian to address any atypical requests for upcoming newsletter during WIP; confirm plans
   * Write paragraphs and source imagery in Google Doc, then build in Mailchimp
