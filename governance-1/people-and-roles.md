@@ -39,9 +39,8 @@ The Executive Committee is a subcommittee of the Board charged with interfacing 
 
 **Team**
 
-A team member is a** **person who has been onboarded into P2PU’s governance model and is jointly responsible for conducting business for P2PU on a daily basis. The mode (e.g. contractor, employee, volunteer) of team members’ involvement with P2PU is not a reflection on her or his importance to the organization. We strive to treat all team members equally, to the extent allowed by legal and regulatory constraints.
+A team member is a **** person who has been onboarded into P2PU’s governance model and is jointly responsible for conducting business for P2PU on a daily basis. The mode (e.g. contractor, employee, volunteer) of team members’ involvement with P2PU is not a reflection on her or his importance to the organization. We strive to treat all team members equally, to the extent allowed by legal and regulatory constraints.
 
-* Becky Margraf
 * Dirk Uys
 * Grif Peterson
 * Qumisha Goss
