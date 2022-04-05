@@ -43,5 +43,5 @@
 **After** **Call**
 
 * Host short team reflection in [facilitation journal](https://etherpad.p2pu.org/p/facilitation-journal) to document plus/delta and next steps
-* Add notes as reply to Discourse, mark event as past, and follow up with group within 24 hours
+* If any action items arise from the call, follow up with group via email within 24 hours
 * Add participants to [community event attendance sheet](https://docs.google.com/spreadsheets/d/16IM1giw2PFsCnNj1gZQCTIYATkMr3GS50gjn7u7oAdg/edit#gid=0)
