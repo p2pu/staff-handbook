@@ -52,7 +52,7 @@ There are different pathways for the general public and P2PU account members to 
   * Identifiable information can be found by searching the UUID data on the P2PU [Django Admin site](https://learningcircles.p2pu.org/en/admin/)
 * Support practices
   * Read learner and facilitator survey responses
-  * Highlight survey responses to P2PU team as needed in Comms Call
+  * Highlight survey responses to P2PU team as needed in Team Time
   * Follow up with facilitators with relevant feedback, stories, or outcomes that may be used a blog post, community call topic, resource guide, discourse post, or in any way that would improve the learning circle model
   * Follow up with learners or facilitators that reply to learning circle survey email instead of clicking to the evaluation report
 
@@ -77,10 +77,10 @@ There are different pathways for the general public and P2PU account members to 
       * Inappropriate content
       * Course URL does not work
     * **Unlisting** a course hides it from public view in the library, but the course still be seen and used by the person who uploaded it and by their team
-    * **Archiving **hides the course from everyone but P2PU and retains the metadata
+    * **Archiving** hides the course from everyone but P2PU and retains the metadata
     * **Deleting** the course purges it permanently from our library
 * Support practices
   * Respond to weekly team feedback where appropriate
   * Encourage facilitators and teams with relevant feedback to explore their issue for as blog post, community call topic, resource guide, or discourse post
-  * Highlight weekly team feedback to P2PU team as needed in Comms Call
+  * Highlight weekly team feedback to P2PU team as needed in Team Time
   * Review and edit P2PU course list regularly to ensure each course meets the necessary criteria and that the information listed is accurate and reliable.
