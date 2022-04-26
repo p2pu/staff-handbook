@@ -44,4 +44,5 @@ A team member is a **** person who has been onboarded into P2PU’s governance m
 * Dirk Uys
 * Grif Peterson
 * Qumisha Goss
+* Lydian Brambila
 
