@@ -9,21 +9,17 @@ description: >-
 
 We use 9-5 local time as a general reference for working hours, but there is a great deal of flexibility, as we are more concerned with getting the job done and making sure we’re staying connected to our colleagues and partners.
 
-### WIP (Monday at 9 ET, wrangled by Grif)
+### WIP (Monday 3-4PM UTC)
 
 Where we develop, check in on, and reflect on individual progress against organizational goals.
 
-### Tech (Tuesday at 9 ET, wrangled by Dirk)
+### Tech (currently not scheduled)
 
 Where we review pull requests, address new bugs and issues, and work new features through product development cycle.
 
-### Comms (Wednesday at 10:30 ET, wrangled by Becky)
+### Team Time (Thursday 3-6PM UTC)
 
-Where we check-in on community activity & relationships, plan upcoming events, and address comms-facing items on the roadmap.
-
-### Team Call (Thursday at 9ET, wrangled by Grif)
-
-Where we conduct shared governance and dig in to issues that can use some extra team time, including fundraising, comms check in, professional development, project management, upcoming events, reviewing the roadmap, etc.
+Where we conduct shared governance and dig in to issues that can use some extra team time, including fundraising, comms, professional development, project management, upcoming events, reviewing the roadmap, etc.
 
 ### Facilitation Journal (Following all public calls, wrangled by facilitator)
 
