@@ -28,7 +28,7 @@
 
 ### Discourse
 
-We use [community.p2pu.org](https://community.p2pu.org) as our public community space. Often times, what we want to discuss as a team can be discussed there. If a forum post exists on the topic, opt towards having conversations there, i.e.
+We use [community.p2pu.org](https://community.p2pu.org/) as our public community space. Often times, what we want to discuss as a team can be discussed there. If a forum post exists on the topic, opt towards having conversations there, i.e.
 
 *
   * Discussing topics for upcoming community calls
@@ -60,6 +60,4 @@ A few best practices that we’ve identified when working with Google Drive
 * When resolving somebody else’s comment, always a leave a comment to notify them, even if it’s just to say “cleaning up comments to prepare doc to share” or “incorporated feedback”, etc.
 
 
-
-*
 
